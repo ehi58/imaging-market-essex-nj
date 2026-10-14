@@ -1,0 +1,485 @@
+{
+ "study_area_is_focus_plus_all_neighbours": {
+  "passed": true,
+  "adjacency_file": [
+   "34003",
+   "34013",
+   "34017",
+   "34027",
+   "34031",
+   "34039"
+  ],
+  "configured": [
+   "34003",
+   "34013",
+   "34017",
+   "34027",
+   "34031",
+   "34039"
+  ]
+ },
+ "study_zctas_found": {
+  "passed": true,
+  "n": 224,
+  "zip3_prefixes": [
+   "070",
+   "071",
+   "072",
+   "073",
+   "074",
+   "075",
+   "076",
+   "078",
+   "079",
+   "088"
+  ]
+ },
+ "acs_tracts_sum_to_county": {
+  "passed": true,
+  "published_county": {
+   "34003": {
+    "pop_total": 962316.0,
+    "pop_65plus": 175043.0
+   },
+   "34013": {
+    "pop_total": 863002.0,
+    "pop_65plus": 122640.0
+   },
+   "34017": {
+    "pop_total": 718323.0,
+    "pop_65plus": 90793.0
+   },
+   "34027": {
+    "pop_total": 514528.0,
+    "pop_65plus": 93627.0
+   },
+   "34031": {
+    "pop_total": 521012.0,
+    "pop_65plus": 82632.0
+   },
+   "34039": {
+    "pop_total": 579290.0,
+    "pop_65plus": 87277.0
+   }
+  }
+ },
+ "acs_has_six_counties_and_tracts": {
+  "passed": true,
+  "counties": 6,
+  "tracts": 947
+ },
+ "populated_tracts_have_polygons": {
+  "passed": true,
+  "missing": []
+ },
+ "populated_tracts_assigned_a_municipality": {
+  "passed": true,
+  "missing": []
+ },
+ "geo_variation_one_all_ages_row_per_county": {
+  "passed": true,
+  "rows": 6,
+  "age_levels": [
+   "All"
+  ]
+ },
+ "nj_statewide_imaging_events_per_1000_by_age_2024": {
+  "All": 5272.678,
+  "<65": 4096.2705,
+  ">=65": 5375.5537,
+  "ratio_65plus_to_all": 1.0195
+ },
+ "every_configured_taxonomy_occurs_nationally": {
+  "passed": true,
+  "absent": [],
+  "org_npis_by_code": {
+   "261QR0200X": 5557,
+   "261QR0206X": 696,
+   "261QM1200X": 1926,
+   "2085R0202X": 11871,
+   "2085R0204X": 2463,
+   "2085N0700X": 688,
+   "2085B0100X": 1129,
+   "2085U0001X": 1586,
+   "2085P0229X": 421,
+   "2085N0904X": 706,
+   "2085D0003X": 267,
+   "207U00000X": 560,
+   "261QR0207X": 124,
+   "261QR0208X": 1486,
+   "335V00000X": 1540
+  }
+ },
+ "nppes_locations_geocode": {
+  "rows": 986,
+  "distinct_addresses": 776,
+  "census_matched_rows_pct": 90.2,
+  "nominatim_retried_addresses": 47,
+  "nominatim_placed": 25,
+  "located_rows_pct": 93.9
+ },
+ "nppes_located_rate_floor": {
+  "passed": true,
+  "rate": 0.939
+ },
+ "pecos_imaging_types_all_occur_in_nj": {
+  "passed": true,
+  "occurring": [
+   "12-45",
+   "12-47",
+   "12-63"
+  ]
+ },
+ "drug_indicator_takes_only_y_or_n": {
+  "passed": true,
+  "values": [
+   "N",
+   "Y"
+  ]
+ },
+ "excluded_drug_and_contrast_lines": {
+  "reason": "billed per mL or per dose, not per exam",
+  "rows": 795,
+  "units": 8489635.5,
+  "codes": [
+   "A9573",
+   "A9575",
+   "A9576",
+   "A9577",
+   "A9579",
+   "A9581",
+   "A9585",
+   "Q9956",
+   "Q9957",
+   "Q9965",
+   "Q9966",
+   "Q9967"
+  ]
+ },
+ "every_rbcs_imaging_subcategory_occurs_in_nj": {
+  "passed": true,
+  "occurring": [
+   "IC",
+   "IM",
+   "IN",
+   "IS",
+   "IU",
+   "IX"
+  ],
+  "defined": [
+   "IC",
+   "IM",
+   "IN",
+   "IS",
+   "IU",
+   "IX"
+  ]
+ },
+ "place_of_service_is_facility_or_nonfacility": {
+  "passed": true,
+  "values": [
+   "F",
+   "O"
+  ]
+ },
+ "portable_supplier_type_occurs": {
+  "passed": true
+ },
+ "part_b_billing_addresses_geocode": {
+  "rows": 54313,
+  "distinct_addresses": 3281,
+  "census_matched_rows_pct": 84.5,
+  "nominatim_retried_addresses": 227,
+  "nominatim_placed": 113,
+  "located_rows_pct": 89.5
+ },
+ "study_zcta_lines_located_floor": {
+  "passed": true,
+  "located_share_weighted_by_billed_count": 0.971,
+  "denominator": "every non-drug imaging line whose billing ZIP is a study-area ZCTA or a non-ZCTA ZIP with a study ZIP3"
+ },
+ "excluded_from_area_volume": {
+  "facility_setting_lines": {
+   "reason": "almost all are radiologists' reading fees for hospital exams, billed from their group's address",
+   "billing_npis_in_study_area": 929
+  },
+  "mobile_or_portable_billers": {
+   "reason": "a registered address is not where the service happens",
+   "billing_npis_in_study_area": 9
+  }
+ },
+ "billing_site_merge": {
+  "distinct_points": 965,
+  "sites_after_merge": 862,
+  "merge_meters": 75
+ },
+ "nonfacility_biller_types_npi_counts": {
+  "Cardiology": 296,
+  "Optometry": 257,
+  "Ophthalmology": 227,
+  "Diagnostic Radiology": 221,
+  "Podiatry": 211,
+  "Orthopedic Surgery": 196,
+  "Physician Assistant": 142,
+  "Internal Medicine": 127,
+  "Urology": 123,
+  "Obstetrics & Gynecology": 51,
+  "Nurse Practitioner": 50,
+  "Family Practice": 47,
+  "Emergency Medicine": 40,
+  "Endocrinology": 37,
+  "Physical Medicine and Rehabilitation": 37,
+  "Vascular Surgery": 36,
+  "Interventional Cardiology": 25,
+  "Gastroenterology": 22,
+  "Neurology": 21,
+  "Pulmonary Disease": 20,
+  "Rheumatology": 18,
+  "Hand Surgery": 18,
+  "Interventional Radiology": 14,
+  "Independent Diagnostic Testing Facility (IDTF)": 14,
+  "General Surgery": 14,
+  "Pain Management": 12,
+  "General Practice": 8,
+  "Otolaryngology": 7,
+  "Neurosurgery": 7,
+  "Sports Medicine": 7,
+  "Anesthesiology": 6,
+  "Clinical Cardiac Electrophysiology": 3,
+  "Oral Surgery (Dentist only)": 3,
+  "Interventional Pain Management": 3,
+  "Nuclear Medicine": 3,
+  "Speech Language Pathologist": 2,
+  "Critical Care (Intensivists)": 2,
+  "Radiation Oncology": 2,
+  "Geriatric Medicine": 2,
+  "Advanced Heart Failure and Transplant Cardiology": 1,
+  "Hospitalist": 1,
+  "Gynecological Oncology": 1,
+  "Infectious Disease": 1,
+  "Maxillofacial Surgery": 1,
+  "Plastic and Reconstructive Surgery": 1,
+  "Osteopathic Manipulative Medicine": 1,
+  "Undefined Physician type": 1,
+  "Surgical Oncology": 1
+ },
+ "every_radiology_biller_type_occurs_in_nj": {
+  "passed": true,
+  "missing": []
+ },
+ "six_modalities": {
+  "passed": true,
+  "modalities": [
+   "ct_scan",
+   "imaging_miscellaneous",
+   "magnetic_resonance",
+   "nuclear",
+   "standard_x_ray",
+   "ultrasound"
+  ]
+ },
+ "volume_withheld": {
+  "34003": {
+   "total": false,
+   "modalities": false,
+   "radiology": false
+  },
+  "34013": {
+   "total": false,
+   "modalities": false,
+   "radiology": false
+  },
+  "34017": {
+   "total": false,
+   "modalities": false,
+   "radiology": false
+  },
+  "34027": {
+   "total": false,
+   "modalities": true,
+   "radiology": true
+  },
+  "34031": {
+   "total": false,
+   "modalities": true,
+   "radiology": false
+  },
+  "34039": {
+   "total": false,
+   "modalities": true,
+   "radiology": false
+  }
+ },
+ "hospitals_geocode": {
+  "rows": 78,
+  "distinct_addresses": 78,
+  "census_matched_rows_pct": 79.5,
+  "nominatim_retried_addresses": 16,
+  "nominatim_placed": 12,
+  "located_rows_pct": 94.9
+ },
+ "hospital_county_agrees_both_ways": {
+  "passed": true,
+  "listed_in_study": 35,
+  "placed_in_study": 35,
+  "disagree": 0
+ },
+ "acute_hospital_type_occurs": {
+  "passed": true,
+  "types": [
+   "Acute Care - Veterans Administration",
+   "Acute Care Hospitals",
+   "Childrens",
+   "Long-term",
+   "Psychiatric"
+  ]
+ },
+ "imaging_apc_pattern_matches_known_imaging_wording": {
+  "passed": true
+ },
+ "hospital_outpatient_imaging_volume": {
+  "published_per_hospital": false,
+  "nj_apcs_in_file": 68,
+  "imaging_apcs": [],
+  "note": "Outpatient Hospitals by Provider and Service carries comprehensive APCs only"
+ },
+ "nursing_homes_geocode": {
+  "rows": 348,
+  "distinct_addresses": 347,
+  "census_matched_rows_pct": 88.2,
+  "nominatim_retried_addresses": 0,
+  "nominatim_placed": 0,
+  "located_rows_pct": 88.2
+ },
+ "geocoder_agrees_with_cms_nursing_home_coordinates": {
+  "passed": true,
+  "compared": 307,
+  "median_km": 0.03,
+  "over_1km": 16
+ },
+ "nursing_home_county_agrees_both_ways": {
+  "passed": true,
+  "listed_in_study": 139,
+  "placed_in_study": 139,
+  "disagree": 0,
+  "disagreements": []
+ },
+ "osrm_routed_every_destination": {
+  "passed": true,
+  "unroutable": 0,
+  "destinations": 1436
+ },
+ "osrm_snapped_within_1km": {
+  "passed": true,
+  "max_snap_m": 646.0,
+  "over_250m": 6,
+  "median_m": 12.4
+ },
+ "each_site_is_nearest_to_its_own_tract": {
+  "passed": true,
+  "detail": {
+   "A": true,
+   "B": true,
+   "C": true
+  },
+  "own_tracts": {
+   "A": "34013008100",
+   "B": "34013015200",
+   "C": "34013020500"
+  }
+ },
+ "county_inputs": {
+  "geo_variation": {
+   "34013": {
+    "om_imaging_events_per_1000_benes": 5252.9642,
+    "ma_participation_rate": 0.553
+   },
+   "34003": {
+    "om_imaging_events_per_1000_benes": 5346.4107,
+    "ma_participation_rate": 0.3982
+   },
+   "34017": {
+    "om_imaging_events_per_1000_benes": 4850.2553,
+    "ma_participation_rate": 0.602
+   },
+   "34027": {
+    "om_imaging_events_per_1000_benes": 5156.992,
+    "ma_participation_rate": 0.3652
+   },
+   "34031": {
+    "om_imaging_events_per_1000_benes": 5194.6537,
+    "ma_participation_rate": 0.5296
+   },
+   "34039": {
+    "om_imaging_events_per_1000_benes": 5040.3585,
+    "ma_participation_rate": 0.5225
+   }
+  }
+ },
+ "every_point_lands_in_a_municipality_row": {
+  "passed": true,
+  "municipalities": 180
+ },
+ "area_counts_reconcile_with_points": {
+  "passed": true,
+  "nursing_homes": 139
+ },
+ "row_counts": {
+  "tracts.csv": 947,
+  "counties.csv": 6,
+  "municipalities.csv": 180,
+  "competitor_locations.csv": 364,
+  "hospitals.csv": 35,
+  "nursing_homes.csv": 139,
+  "sites.csv": 3,
+  "site_coverage.csv": 9
+ },
+ "sources": {
+  "nppes_file": "NPPES_Data_Dissemination_October_2026_V2.zip",
+  "acs": "2020-2024 5-year table-based summary files",
+  "pecos": "Medicare FFS Public Provider Enrollment, quarter from 2026-07-01 (filtered STATE_CD=NJ)",
+  "part_b": "Medicare Physician & Other Practitioners by Provider and Service, CY2024",
+  "geo_variation": "Medicare Geographic Variation by National, State & County, 2024",
+  "rbcs": "RBCS_Taxonomy_Final_RY26_20260731.csv",
+  "care_compare_modified": {
+   "nursing_homes": "2026-09-30",
+   "hospitals": "2026-07-22"
+  },
+  "cms_uuids": {
+   "pecos_enrollment": "2457ea29-fc82-48b0-86ec-3b0755de7515",
+   "pop_provider_service": "92396110-2aed-4d63-a6a2-5d6207d46a29",
+   "opps_provider_service": "ccbc9a44-40d4-46b4-a709-5caa59212e50",
+   "geo_variation": "6219697b-8f6c-4164-bed4-cd9317c58ebc"
+  }
+ },
+ "manifest_sha256": {
+  "tracts.csv": "7ca043599c277e0ecf47ada231c8d0abab3f42354b2107daf8c0daae113ff6bc",
+  "counties.csv": "24c865e98ec187c6ea28a6cbde9a2062df186da677631c858b2eccd83fa5ca1c",
+  "municipalities.csv": "3b503bcb6e393c0502c518a9821ecac2a16bccce6d9fb2eb7992b925c54b3cdc",
+  "competitor_locations.csv": "9c070aa73087affccd3529f6f8046298f61d4c8d4e8e5642d6977c59b55d4321",
+  "hospitals.csv": "42408103e1ec46eaed208275700c8f5da6a77d0b4dc23a35ff6a4d92030565fc",
+  "nursing_homes.csv": "a9ce3d42c579c56c428fbc42f74b591e98d9ef28a0d15aa5ce04489c1180d4ac",
+  "sites.csv": "177a1197061465c4fe49038a4b2a4d5cdaccaa602dcdaa9db7509ba3e760c409",
+  "site_coverage.csv": "004cc489beca21635f71c4a01b0862a09358332870e8b4916e623acc4047a434",
+  "geo/study_tracts.geojson": "3132c2949b544c9eb4766a4b508f62feb1a8d5682dfc456a029bab2d0dc10d82",
+  "geo/study_municipalities.geojson": "f2efed32791c060b32076edfa6c2697a5dc2da2bd50d156fc2fbc1dfa3fc495e"
+ },
+ "no_organisation_name_in_any_output": {
+  "passed": true,
+  "names_checked": 2459,
+  "hits": [],
+  "exempt_municipality_geoids": [
+   "3402756460"
+  ]
+ },
+ "no_npi_in_any_output": {
+  "passed": true,
+  "npis_checked": 87905,
+  "ten_digit_tokens_in_output": 184,
+  "hits": 0
+ },
+ "no_volume_below_county_grain": {
+  "passed": true,
+  "municipal_volume_columns": []
+ }
+}

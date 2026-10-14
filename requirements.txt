@@ -1,0 +1,8 @@
+# Pinned versions the committed outputs were built with (Python 3.14).
+pandas==3.0.6
+numpy==2.5.4
+requests==2.34.2
+shapely==2.2.0
+pyshp==3.1.6
+pytest==9.1.1
+-e .

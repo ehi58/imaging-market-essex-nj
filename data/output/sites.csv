@@ -1,0 +1,4 @@
+site_id,label,lat,lon
+A,"Example site A (urban core, Newark)",40.7357,-74.1724
+B,"Example site B (inner suburb, Bloomfield)",40.8068,-74.1854
+C,"Example site C (outer suburb, Livingston)",40.7959,-74.3149

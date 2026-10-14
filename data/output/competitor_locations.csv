@@ -1,0 +1,365 @@
+location_id,class,registered_address_only,n_npis,lat,lon,tract_geoid,county_fips,county_name,municipality_geoid,municipality,medicare_enrolled_nj,pecos_imaging_type,in_cy2024_part_b_file,location_source,drive_min_A,drive_min_B,drive_min_C
+L0001,imaging_center,False,1,40.63,-74.311,34039036301,34039,Union,3403913150,Clark township,True,IDTF,True,primary,20.0,24.0,30.0
+L0002,imaging_center,False,1,40.656,-74.132,34017011200,34017,Hudson,3401703580,Bayonne city,False,,False,primary,20.0,31.0,36.0
+L0003,imaging_center,False,1,40.664,-74.213,34039039900,34039,Union,3403921000,Elizabeth city,False,,False,primary,12.0,23.0,29.0
+L0004,imaging_center,False,3,40.666,-74.234,34039031801,34039,Union,3403921000,Elizabeth city,False,,False,primary,14.0,22.0,28.0
+L0005,imaging_center,False,1,40.668,-74.113,34017010702,34017,Hudson,3401703580,Bayonne city,False,,False,primary,17.0,29.0,34.0
+L0006,imaging_center,False,1,40.67,-74.114,34017010701,34017,Hudson,3401703580,Bayonne city,False,,False,primary,17.0,28.0,33.0
+L0007,imaging_center,False,1,40.671,-74.221,34039031802,34039,Union,3403921000,Elizabeth city,True,,False,primary,14.0,22.0,28.0
+L0008,imaging_center,False,3,40.693,-74.278,34039033000,34039,Union,3403974480,Union township,True,,False,primary,13.0,17.0,22.0
+L0009,imaging_center,False,1,40.695,-74.424,34039038103,34039,Union,3403951810,New Providence borough,False,,False,primary,24.0,29.0,21.0
+L0010,imaging_center,False,1,40.695,-74.265,34039033100,34039,Union,3403974480,Union township,True,IDTF,False,primary,12.0,16.0,22.0
+L0011,imaging_center,False,1,40.7,-74.284,34039032701,34039,Union,3403974480,Union township,False,,False,primary,15.0,19.0,20.0
+L0012,imaging_center,False,1,40.71,-74.214,34013004600,34013,Essex,3401351000,Newark city,False,,False,primary,8.0,15.0,21.0
+L0013,imaging_center,False,1,40.716,-74.228,34013012800,34013,Essex,3401334450,Irvington township,False,,False,primary,7.0,13.0,19.0
+L0014,imaging_center,False,1,40.717,-74.334,34039038000,34039,Union,3403971430,Summit city,False,,False,primary,17.0,22.0,14.0
+L0015,imaging_center,False,4,40.717,-74.151,34013007400,34013,Essex,3401351000,Newark city,False,,False,primary,5.0,18.0,22.0
+L0016,imaging_center,False,1,40.717,-74.081,34017004200,34017,Hudson,3401736000,Jersey City city,True,,False,primary,10.0,21.0,27.0
+L0017,imaging_center,False,1,40.718,-74.357,34039037800,34039,Union,3403971430,Summit city,False,,False,primary,20.0,25.0,15.0
+L0018,imaging_center,False,1,40.719,-74.307,34013020300,34013,Essex,3401346380,Millburn township,False,,False,primary,17.0,22.0,14.0
+L0019,imaging_center,False,2,40.722,-74.289,34013020200,34013,Essex,3401346380,Millburn township,True,,False,primary,13.0,19.0,16.0
+L0020,imaging_center,False,1,40.723,-74.166,34013006900,34013,Essex,3401351000,Newark city,False,,False,primary,4.0,17.0,21.0
+L0021,imaging_center,False,2,40.731,-74.056,34017001202,34017,Hudson,3401736000,Jersey City city,True,mammography center,False,primary,13.0,19.0,27.0
+L0022,imaging_center,False,2,40.733,-74.166,34013008000,34013,Essex,3401351000,Newark city,False,,False,primary,1.0,14.0,18.0
+L0023,imaging_center,False,1,40.733,-74.06,34017001900,34017,Hudson,3401736000,Jersey City city,False,,False,primary,13.0,19.0,27.0
+L0024,imaging_center,False,2,40.733,-74.059,34017001900,34017,Hudson,3401736000,Jersey City city,False,,False,primary,13.0,19.0,27.0
+L0025,imaging_center,False,1,40.733,-74.058,34017001202,34017,Hudson,3401736000,Jersey City city,False,,False,primary,13.0,18.0,27.0
+L0026,imaging_center,False,1,40.734,-74.051,34017001400,34017,Hudson,3401736000,Jersey City city,False,,False,primary,14.0,20.0,28.0
+L0027,imaging_center,False,1,40.736,-74.067,34017001800,34017,Hudson,3401736000,Jersey City city,False,,False,primary,12.0,17.0,26.0
+L0028,imaging_center,False,2,40.736,-74.05,34017001400,34017,Hudson,3401736000,Jersey City city,True,,False,primary|secondary,15.0,20.0,29.0
+L0029,imaging_center,False,1,40.736,-74.028,34017019300,34017,Hudson,3401732250,Hoboken city,False,,False,primary,18.0,24.0,33.0
+L0030,imaging_center,False,1,40.737,-74.03,34017019300,34017,Hudson,3401732250,Hoboken city,False,,False,primary,18.0,24.0,33.0
+L0031,imaging_center,False,1,40.738,-74.539,34027044200,34027,Morris,3402729700,Harding township,True,,False,primary,37.0,42.0,25.0
+L0032,imaging_center,False,1,40.738,-74.064,34017000902,34017,Hudson,3401736000,Jersey City city,False,,False,primary,12.0,18.0,27.0
+L0033,imaging_center,False,1,40.767,-74.038,34017017000,34017,Hudson,3401774630,Union City city,False,,False,primary,18.0,21.0,32.0
+L0034,imaging_center,False,1,40.769,-74.297,34013017302,34013,Essex,3401379800,West Orange township,False,,False,primary,16.0,19.0,6.0
+L0035,imaging_center,False,1,40.769,-74.235,34013018600,34013,Essex,3401313045,City of Orange township,False,,False,primary,9.0,11.0,11.0
+L0036,imaging_center,False,1,40.769,-74.041,34017014801,34017,Hudson,3401752470,North Bergen township,True,IDTF,True,primary,18.0,21.0,31.0
+L0037,imaging_center,False,2,40.772,-74.187,34013000600,34013,Essex,3401351000,Newark city,False,,False,primary,8.0,9.0,18.0
+L0038,imaging_center,False,1,40.773,-74.467,34027043303,34027,Morris,3402748090,Morris township,False,,False,primary,32.0,37.0,20.0
+L0039,imaging_center,False,2,40.773,-74.354,34013020800,34013,Essex,3401340890,Livingston township,True,IDTF,True,primary,22.0,26.0,7.0
+L0040,imaging_center,False,1,40.773,-74.187,34013000600,34013,Essex,3401351000,Newark city,False,,False,primary,9.0,8.0,18.0
+L0041,imaging_center,False,1,40.775,-74.246,34013017500,34013,Essex,3401379800,West Orange township,True,,False,primary,12.0,14.0,10.0
+L0042,imaging_center,False,2,40.775,-74.033,34017016700,34017,Hudson,3401774630,Union City city,False,,False,primary,17.0,20.0,30.0
+L0043,imaging_center,False,2,40.777,-74.134,34017012300,34017,Hudson,3401736510,Kearny town,True,,False,primary,9.0,10.0,22.0
+L0044,imaging_center,False,1,40.778,-74.023,34017016200,34017,Hudson,3401774630,Union City city,True,,False,primary,19.0,22.0,32.0
+L0045,imaging_center,False,2,40.779,-74.238,34013017700,34013,Essex,3401379800,West Orange township,True,,False,primary,11.0,12.0,10.0
+L0046,imaging_center,False,3,40.779,-74.016,34017016100,34017,Hudson,3401774630,Union City city,False,,False,primary,20.0,23.0,33.0
+L0047,imaging_center,False,1,40.78,-74.14,34017012400,34017,Hudson,3401736510,Kearny town,False,,False,primary,8.0,9.0,22.0
+L0048,imaging_center,False,1,40.786,-74.194,34013015700,34013,Essex,3401306260,Bloomfield township,False,,False,primary,11.0,7.0,17.0
+L0049,imaging_center,False,1,40.786,-74.175,34013014700,34013,Essex,3401304695,Belleville township,False,,False,secondary,9.0,6.0,20.0
+L0050,imaging_center,False,1,40.787,-74.013,34017015700,34017,Hudson,3401779610,West New York town,False,,False,primary,21.0,25.0,35.0
+L0051,imaging_center,False,1,40.789,-74.472,34027043700,34027,Morris,3402748300,Morristown town,False,,False,primary,29.0,34.0,17.0
+L0052,imaging_center,False,2,40.792,-74.014,34017032400,34017,Hudson,3401779610,West New York town,True,,False,primary,21.0,25.0,35.0
+L0053,imaging_center,False,1,40.795,-74.069,34017019900,34017,Hudson,3401766570,Secaucus town,False,,False,primary,18.0,18.0,31.0
+L0054,imaging_center,False,1,40.795,-73.997,34017014101,34017,Hudson,3401752470,North Bergen township,False,,False,primary,23.0,26.0,36.0
+L0055,imaging_center,False,1,40.802,-74.118,34003031400,34003,Bergen,3400342090,Lyndhurst township,True,,False,primary,12.0,12.0,25.0
+L0056,imaging_center,False,1,40.808,-74.461,34027042200,34027,Morris,3402729550,Hanover township,True,,False,primary,28.0,33.0,16.0
+L0057,imaging_center,False,1,40.808,-74.377,34027041902,34027,Morris,3402719210,East Hanover township,False,,False,primary,25.0,28.0,7.0
+L0058,imaging_center,False,1,40.812,-74.165,34013013900,34013,Essex,3401353680,Nutley township,False,,False,primary,12.0,5.0,22.0
+L0059,imaging_center,False,4,40.815,-74.163,34013013800,34013,Essex,3401353680,Nutley township,False,,False,primary,12.0,5.0,23.0
+L0060,imaging_center,False,2,40.816,-74.162,34013013800,34013,Essex,3401353680,Nutley township,False,,False,primary,12.0,5.0,23.0
+L0061,imaging_center,False,2,40.817,-74.002,34003018200,34003,Bergen,3400322560,Fairview borough,True,,False,primary,22.0,26.0,36.0
+L0062,imaging_center,False,1,40.826,-74.102,34003051300,34003,Bergen,3400365280,Rutherford borough,False,,False,primary,14.0,15.0,28.0
+L0063,imaging_center,False,1,40.826,-73.975,34003013002,34003,Bergen,3400320020,Edgewater borough,False,,False,primary,27.0,30.0,41.0
+L0064,imaging_center,False,1,40.828,-73.973,34003013002,34003,Bergen,3400320020,Edgewater borough,False,,False,primary,27.0,30.0,40.0
+L0065,imaging_center,False,1,40.833,-74.181,34013014800,34013,Essex,3401306260,Bloomfield township,False,,False,primary,16.0,5.0,20.0
+L0066,imaging_center,False,2,40.836,-74.008,34003045200,34003,Bergen,3400362910,Ridgefield borough,False,,False,primary,23.0,26.0,36.0
+L0067,imaging_center,False,1,40.839,-73.985,34003019304,34003,Bergen,3400324420,Fort Lee borough,False,,False,primary,25.0,28.0,38.0
+L0068,imaging_center,False,1,40.842,-74.1,34003005000,34003,Bergen,3400310480,Carlstadt borough,False,,False,primary,16.0,17.0,30.0
+L0069,imaging_center,False,1,40.849,-74.298,34013021802,34013,Essex,3401378510,West Caldwell township,False,,False,primary,23.0,21.0,10.0
+L0070,imaging_center,False,1,40.855,-73.993,34003028002,34003,Bergen,3400340020,Leonia borough,False,,False,primary,25.0,26.0,37.0
+L0071,imaging_center,False,1,40.861,-74.166,34031124321,34031,Passaic,3403113690,Clifton city,False,,False,primary,17.0,11.0,25.0
+L0072,imaging_center,False,1,40.863,-74.392,34027041705,34027,Morris,3402756460,Parsippany-Troy Hills township,False,,False,primary,25.0,26.0,13.0
+L0073,imaging_center,False,2,40.866,-74.131,34031175803,34031,Passaic,3403156550,Passaic city,False,,False,primary|secondary,14.0,13.0,27.0
+L0074,imaging_center,False,3,40.869,-74.646,34027045503,34027,Morris,3402764980,Roxbury township,False,,False,primary,44.0,47.0,32.0
+L0075,imaging_center,False,1,40.869,-74.156,34031124321,34031,Passaic,3403113690,Clifton city,True,,False,primary,16.0,12.0,25.0
+L0076,imaging_center,False,1,40.872,-74.427,34027041603,34027,Morris,3402756460,Parsippany-Troy Hills township,False,,False,primary,27.0,28.0,15.0
+L0077,imaging_center,False,1,40.875,-73.952,34003016000,34003,Bergen,3400321510,Englewood Cliffs borough,False,,False,primary,30.0,32.0,43.0
+L0078,imaging_center,False,1,40.876,-73.984,34003015402,34003,Bergen,3400321480,Englewood city,False,,False,primary,27.0,27.0,39.0
+L0079,imaging_center,False,1,40.877,-74.16,34031124602,34031,Passaic,3403113690,Clifton city,True,IDTF,True,primary,17.0,11.0,24.0
+L0080,imaging_center,False,1,40.881,-73.951,34003016000,34003,Bergen,3400321510,Englewood Cliffs borough,False,,False,primary,31.0,32.0,44.0
+L0081,imaging_center,False,1,40.882,-74.009,34003054602,34003,Bergen,3400372360,Teaneck township,False,,False,primary,26.0,26.0,39.0
+L0082,imaging_center,False,5,40.883,-74.045,34003023502,34003,Bergen,3400328680,Hackensack city,True,,False,primary,23.0,23.0,35.0
+L0083,imaging_center,False,1,40.886,-74.455,34027041200,34027,Morris,3402748480,Mountain Lakes borough,False,,False,primary,28.0,30.0,16.0
+L0084,imaging_center,False,1,40.886,-74.272,34013021601,34013,Essex,3401322385,Fairfield township,True,,False,primary,24.0,17.0,15.0
+L0085,imaging_center,False,1,40.886,-74.063,34003023402,34003,Bergen,3400328680,Hackensack city,False,,False,primary,22.0,20.0,32.0
+L0086,imaging_center,False,3,40.886,-74.02,34003054500,34003,Bergen,3400372360,Teaneck township,True,IDTF,True,primary,26.0,25.0,38.0
+L0087,imaging_center,False,1,40.887,-74.479,34027041400,34027,Morris,3402717650,Denville township,True,,False,primary,30.0,33.0,18.0
+L0088,imaging_center,False,1,40.889,-74.017,34003054500,34003,Bergen,3400372360,Teaneck township,False,,False,primary,26.0,26.0,38.0
+L0089,imaging_center,False,2,40.892,-74.212,34031264102,34031,Passaic,3403182423,Woodland Park borough,False,,False,primary,20.0,14.0,20.0
+L0090,imaging_center,False,1,40.896,-74.052,34003023304,34003,Bergen,3400328680,Hackensack city,False,,False,primary,24.0,23.0,35.0
+L0091,imaging_center,False,3,40.897,-74.096,34003052200,34003,Bergen,3400365340,Saddle Brook township,False,,False,primary,20.0,18.0,31.0
+L0092,imaging_center,False,2,40.899,-73.971,34003015401,34003,Bergen,3400321480,Englewood city,False,,False,primary,31.0,32.0,44.0
+L0093,imaging_center,False,3,40.901,-74.216,34031223801,34031,Passaic,3403173140,Totowa borough,False,,False,primary,21.0,15.0,20.0
+L0094,imaging_center,False,2,40.904,-74.118,34003011400,34003,Bergen,3400321300,Elmwood Park borough,True,IDTF,True,primary,18.0,16.0,29.0
+L0095,imaging_center,False,1,40.904,-74.078,34003050000,34003,Bergen,3400363990,Rochelle Park township,True,,False,primary,22.0,20.0,32.0
+L0096,imaging_center,False,1,40.918,-74.209,34031223802,34031,Passaic,3403173140,Totowa borough,False,,False,primary,27.0,20.0,25.0
+L0097,imaging_center,False,1,40.918,-74.149,34031181300,34031,Passaic,3403157000,Paterson city,False,,False,primary,20.0,17.0,27.0
+L0098,imaging_center,False,2,40.918,-74.145,34031182501,34031,Passaic,3403157000,Paterson city,True,,False,primary,19.0,17.0,27.0
+L0099,imaging_center,False,1,40.918,-74.129,34003011100,34003,Bergen,3400321300,Elmwood Park borough,True,IDTF,True,primary,18.0,16.0,29.0
+L0100,imaging_center,False,1,40.918,-74.053,34003042500,34003,Bergen,3400355950,Paramus borough,False,,False,primary,25.0,23.0,35.0
+L0101,imaging_center,False,2,40.931,-74.074,34003042500,34003,Bergen,3400355950,Paramus borough,True,IDTF,True,primary,25.0,23.0,36.0
+L0102,imaging_center,False,1,40.933,-74.002,34003003300,34003,Bergen,3400305170,Bergenfield borough,False,,False,primary,32.0,30.0,43.0
+L0103,imaging_center,False,1,40.938,-74.124,34003017200,34003,Bergen,3400322470,Fair Lawn borough,True,,False,primary,22.0,20.0,31.0
+L0104,imaging_center,False,1,40.94,-74.118,34003017101,34003,Bergen,3400322470,Fair Lawn borough,False,,False,primary,23.0,20.0,31.0
+L0105,imaging_center,False,1,40.941,-74.055,34003042102,34003,Bergen,3400355950,Paramus borough,False,,False,primary,28.0,26.0,38.0
+L0106,imaging_center,False,1,40.948,-74.207,34031246001,34031,Passaic,3403177840,Wayne township,False,,False,primary,26.0,20.0,28.0
+L0107,imaging_center,False,1,40.949,-74.069,34003042302,34003,Bergen,3400355950,Paramus borough,False,,False,primary,26.0,23.0,36.0
+L0108,imaging_center,False,7,40.954,-74.213,34031246001,34031,Passaic,3403177840,Wayne township,True,IDTF,True,primary,27.0,22.0,29.0
+L0109,imaging_center,False,1,40.958,-74.308,34027040301,34027,Morris,3402758110,Pequannock township,False,,False,primary,31.0,25.0,27.0
+L0110,imaging_center,False,4,40.96,-74.03,34003040001,34003,Bergen,3400354990,Oradell borough,False,,False,primary,29.0,27.0,40.0
+L0111,imaging_center,False,1,40.963,-74.069,34003042302,34003,Bergen,3400355950,Paramus borough,False,,False,primary,28.0,25.0,38.0
+L0112,imaging_center,False,1,40.963,-74.03,34003040001,34003,Bergen,3400354990,Oradell borough,False,,False,primary,30.0,28.0,41.0
+L0113,imaging_center,False,1,40.965,-74.072,34003042302,34003,Bergen,3400355950,Paramus borough,False,,False,primary,27.0,25.0,38.0
+L0114,imaging_center,False,1,40.969,-74.12,34003022100,34003,Bergen,3400326640,Glen Rock borough,False,,False,primary,29.0,26.0,35.0
+L0115,imaging_center,False,1,40.97,-74.077,34003042302,34003,Bergen,3400355950,Paramus borough,False,,False,primary,27.0,25.0,38.0
+L0116,imaging_center,False,1,40.982,-74.119,34003047400,34003,Bergen,3400363000,Ridgewood village,False,,False,primary,30.0,27.0,36.0
+L0117,imaging_center,False,1,40.982,-74.007,34003014000,34003,Bergen,3400321450,Emerson borough,False,,False,primary,33.0,31.0,44.0
+L0118,imaging_center,False,2,40.984,-74.014,34003059100,34003,Bergen,3400380270,Westwood borough,False,,False,primary,33.0,31.0,44.0
+L0119,imaging_center,False,1,40.986,-74.304,34027040400,34027,Morris,3402763300,Riverdale borough,False,,False,primary,30.0,24.0,26.0
+L0120,imaging_center,False,1,40.996,-74.304,34027040400,34027,Morris,3402763300,Riverdale borough,False,,False,primary,31.0,25.0,26.0
+L0121,imaging_center,False,1,41.009,-74.119,34003056200,34003,Bergen,3400376400,Waldwick borough,True,,False,primary,33.0,30.0,39.0
+L0122,imaging_center,False,1,41.022,-74.206,34003020100,34003,Bergen,3400324990,Franklin Lakes borough,False,,False,primary,32.0,29.0,36.0
+L0123,imaging_center,False,1,41.051,-74.056,34003035100,34003,Bergen,3400347610,Montvale borough,False,,False,primary,34.0,31.0,44.0
+L0124,imaging_center,False,1,41.08,-74.14,34003032201,34003,Bergen,3400342750,Mahwah township,False,,False,primary,39.0,36.0,46.0
+L0125,mobile_or_portable,True,3,40.636,-74.263,34039034900,34039,Union,3403940350,Linden city,True,IDTF|portable x-ray supplier,True,primary,,,
+L0126,mobile_or_portable,True,1,40.646,-74.286,34039037300,34039,Union,3403915640,Cranford township,True,portable x-ray supplier,True,primary,,,
+L0127,mobile_or_portable,True,1,40.648,-74.257,34039034400,34039,Union,3403964620,Roselle borough,False,,False,primary,,,
+L0128,mobile_or_portable,True,1,40.652,-74.283,34039037300,34039,Union,3403915640,Cranford township,False,,False,primary,,,
+L0129,mobile_or_portable,True,1,40.666,-74.234,34039031801,34039,Union,3403921000,Elizabeth city,False,,False,primary,,,
+L0130,mobile_or_portable,True,1,40.675,-74.291,34039033600,34039,Union,3403936690,Kenilworth borough,False,,False,primary,,,
+L0131,mobile_or_portable,True,1,40.676,-74.285,34039033600,34039,Union,3403936690,Kenilworth borough,True,portable x-ray supplier,True,primary,,,
+L0132,mobile_or_portable,True,1,40.679,-74.302,34039033600,34039,Union,3403936690,Kenilworth borough,False,,False,primary,,,
+L0133,mobile_or_portable,True,2,40.679,-74.293,34039033600,34039,Union,3403936690,Kenilworth borough,False,,False,primary,,,
+L0134,mobile_or_portable,True,1,40.684,-74.107,34017010100,34017,Hudson,3401703580,Bayonne city,False,,False,primary,,,
+L0135,mobile_or_portable,True,2,40.686,-74.342,34039038300,34039,Union,3403948510,Mountainside borough,False,,False,primary,,,
+L0136,mobile_or_portable,True,1,40.686,-74.24,34039033501,34039,Union,3403974480,Union township,True,IDTF,True,primary,,,
+L0137,mobile_or_portable,True,1,40.695,-74.296,34039032902,34039,Union,3403974480,Union township,True,IDTF,False,primary,,,
+L0138,mobile_or_portable,True,1,40.701,-74.287,34039032902,34039,Union,3403974480,Union township,False,,False,primary,,,
+L0139,mobile_or_portable,True,1,40.702,-74.092,34017005902,34017,Hudson,3401736000,Jersey City city,False,,False,primary,,,
+L0140,mobile_or_portable,True,1,40.703,-74.322,34039037601,34039,Union,3403970020,Springfield township,False,,False,primary,,,
+L0141,mobile_or_portable,True,1,40.704,-74.092,34017005600,34017,Hudson,3401736000,Jersey City city,False,,False,primary,,,
+L0142,mobile_or_portable,True,1,40.718,-74.357,34039037800,34039,Union,3403971430,Summit city,False,,False,primary,,,
+L0143,mobile_or_portable,True,1,40.718,-74.035,34017007602,34017,Hudson,3401736000,Jersey City city,False,,False,secondary,,,
+L0144,mobile_or_portable,True,1,40.719,-74.085,34017004000,34017,Hudson,3401736000,Jersey City city,False,,False,primary,,,
+L0145,mobile_or_portable,True,1,40.723,-74.307,34013020300,34013,Essex,3401346380,Millburn township,False,,False,primary,,,
+L0146,mobile_or_portable,True,1,40.736,-74.067,34017001701,34017,Hudson,3401736000,Jersey City city,False,,False,primary,,,
+L0147,mobile_or_portable,True,1,40.736,-74.063,34017000902,34017,Hudson,3401736000,Jersey City city,False,,False,primary,,,
+L0148,mobile_or_portable,True,1,40.739,-74.042,34017019200,34017,Hudson,3401732250,Hoboken city,False,,False,secondary,,,
+L0149,mobile_or_portable,True,2,40.739,-74.028,34017018301,34017,Hudson,3401732250,Hoboken city,True,portable x-ray supplier,True,primary,,,
+L0150,mobile_or_portable,True,1,40.754,-74.213,34013011100,34013,Essex,3401319390,East Orange city,False,,False,primary,,,
+L0151,mobile_or_portable,True,1,40.775,-74.159,34013009600,34013,Essex,3401351000,Newark city,False,,False,primary,,,
+L0152,mobile_or_portable,True,1,40.776,-74.362,34013020800,34013,Essex,3401340890,Livingston township,True,portable x-ray supplier,False,secondary,,,
+L0153,mobile_or_portable,True,1,40.782,-74.375,34027042602,34027,Morris,3402723910,Florham Park borough,False,,False,primary,,,
+L0154,mobile_or_portable,True,1,40.787,-74.015,34017015700,34017,Hudson,3401779610,West New York town,False,,False,primary,,,
+L0155,mobile_or_portable,True,1,40.789,-74.023,34017016000,34017,Hudson,3401779610,West New York town,False,,True,primary,,,
+L0156,mobile_or_portable,True,1,40.793,-74.071,34017019900,34017,Hudson,3401766570,Secaucus town,False,,False,primary,,,
+L0157,mobile_or_portable,True,1,40.82,-73.978,34003013003,34003,Bergen,3400320020,Edgewater borough,False,,False,primary,,,
+L0158,mobile_or_portable,True,1,40.823,-74.446,34027042200,34027,Morris,3402729550,Hanover township,False,,False,primary,,,
+L0159,mobile_or_portable,True,1,40.827,-73.98,34003006202,34003,Bergen,3400313570,Cliffside Park borough,False,,False,primary,,,
+L0160,mobile_or_portable,True,1,40.83,-74.338,34027041901,34027,Morris,3402719210,East Hanover township,True,portable x-ray supplier,False,primary,,,
+L0161,mobile_or_portable,True,1,40.842,-74.1,34003005000,34003,Bergen,3400310480,Carlstadt borough,False,,False,primary,,,
+L0162,mobile_or_portable,True,1,40.862,-74.398,34027041706,34027,Morris,3402756460,Parsippany-Troy Hills township,True,IDTF,True,primary,,,
+L0163,mobile_or_portable,True,1,40.863,-74.57,34027045603,34027,Morris,3402761890,Randolph township,False,,False,primary,,,
+L0164,mobile_or_portable,True,1,40.896,-74.244,34031246300,34031,Passaic,3403177840,Wayne township,False,,False,primary,,,
+L0165,mobile_or_portable,True,1,40.903,-74.124,34003011300,34003,Bergen,3400321300,Elmwood Park borough,False,,False,primary,,,
+L0166,mobile_or_portable,True,1,40.908,-74.151,34031182701,34031,Passaic,3403157000,Paterson city,False,,False,primary,,,
+L0167,mobile_or_portable,True,1,40.911,-74.058,34003033100,34003,Bergen,3400344880,Maywood borough,False,,False,primary,,,
+L0168,mobile_or_portable,True,1,40.912,-73.983,34003055201,34003,Bergen,3400372420,Tenafly borough,False,,False,primary,,,
+L0169,mobile_or_portable,True,1,40.918,-74.149,34031181300,34031,Passaic,3403157000,Paterson city,False,,False,primary,,,
+L0170,mobile_or_portable,True,1,40.937,-74.13,34003017302,34003,Bergen,3400322470,Fair Lawn borough,False,,False,primary,,,
+L0171,mobile_or_portable,True,1,40.937,-74.023,34003037100,34003,Bergen,3400351660,New Milford borough,False,,False,secondary,,,
+L0172,mobile_or_portable,True,1,40.961,-74.056,34003042302,34003,Bergen,3400355950,Paramus borough,False,,False,primary,,,
+L0173,mobile_or_portable,True,1,40.968,-74.171,34031163501,34031,Passaic,3403153040,North Haledon borough,False,,False,primary,,,
+L0174,radiology_group,False,1,40.603,-74.377,34039038602,34039,Union,3403966060,Scotch Plains township,False,,False,primary,31.0,35.0,39.0
+L0175,radiology_group,False,1,40.607,-74.406,34039039700,34039,Union,3403959190,Plainfield city,False,,False,primary,35.0,39.0,36.0
+L0176,radiology_group,False,3,40.633,-74.268,34039034900,34039,Union,3403940350,Linden city,True,,False,primary,19.0,26.0,32.0
+L0177,radiology_group,False,1,40.634,-74.259,34039034900,34039,Union,3403940350,Linden city,False,,False,primary,18.0,26.0,32.0
+L0178,radiology_group,False,1,40.654,-74.306,34039037200,34039,Union,3403915640,Cranford township,False,,False,primary,19.0,23.0,29.0
+L0179,radiology_group,False,1,40.658,-74.346,34039036400,34039,Union,3403979040,Westfield town,False,,False,primary,25.0,29.0,27.0
+L0180,radiology_group,False,1,40.66,-74.214,34039030802,34039,Union,3403921000,Elizabeth city,False,,False,primary,12.0,23.0,29.0
+L0181,radiology_group,False,1,40.663,-74.234,34039032003,34039,Union,3403921000,Elizabeth city,True,,False,primary,15.0,23.0,29.0
+L0182,radiology_group,False,1,40.663,-74.119,34017011000,34017,Hudson,3401703580,Bayonne city,False,,False,primary,18.0,30.0,35.0
+L0183,radiology_group,False,2,40.666,-74.234,34039031801,34039,Union,3403921000,Elizabeth city,True,IDTF,True,primary,14.0,22.0,28.0
+L0184,radiology_group,False,2,40.667,-74.112,34017010702,34017,Hudson,3401703580,Bayonne city,False,,False,primary,17.0,28.0,33.0
+L0185,radiology_group,False,5,40.668,-74.113,34017010702,34017,Hudson,3401703580,Bayonne city,True,,False,primary,17.0,29.0,34.0
+L0186,radiology_group,False,2,40.67,-74.113,34017010701,34017,Hudson,3401703580,Bayonne city,False,,False,primary,17.0,29.0,34.0
+L0187,radiology_group,False,1,40.671,-74.221,34039031802,34039,Union,3403921000,Elizabeth city,False,,False,primary,14.0,22.0,28.0
+L0188,radiology_group,False,2,40.672,-74.111,34017010400,34017,Hudson,3401703580,Bayonne city,True,,False,secondary,16.0,28.0,33.0
+L0189,radiology_group,False,2,40.674,-74.264,34039033501,34039,Union,3403974480,Union township,False,,False,primary,17.0,21.0,27.0
+L0190,radiology_group,False,2,40.676,-74.265,34039033501,34039,Union,3403974480,Union township,True,,False,primary|secondary,16.0,20.0,26.0
+L0191,radiology_group,False,1,40.681,-74.519,34027044101,34027,Morris,3402741362,Long Hill township,False,,False,primary,34.0,39.0,33.0
+L0192,radiology_group,False,1,40.681,-74.269,34039033300,34039,Union,3403974480,Union township,False,,False,primary,16.0,20.0,26.0
+L0193,radiology_group,False,1,40.682,-74.269,34039033300,34039,Union,3403974480,Union township,False,,False,primary,16.0,20.0,25.0
+L0194,radiology_group,False,1,40.686,-74.342,34039038300,34039,Union,3403948510,Mountainside borough,False,,False,primary,21.0,25.0,24.0
+L0195,radiology_group,False,1,40.687,-74.108,34017010100,34017,Hudson,3401703580,Bayonne city,True,,False,secondary,13.0,25.0,30.0
+L0196,radiology_group,False,1,40.693,-74.278,34039033000,34039,Union,3403974480,Union township,False,,False,secondary,13.0,17.0,22.0
+L0197,radiology_group,False,2,40.694,-74.309,34039037602,34039,Union,3403970020,Springfield township,False,,False,primary,18.0,22.0,20.0
+L0198,radiology_group,False,1,40.696,-74.251,34039033200,34039,Union,3403974480,Union township,True,,False,primary,12.0,16.0,22.0
+L0199,radiology_group,False,2,40.7,-74.284,34039032701,34039,Union,3403974480,Union township,False,,False,primary,15.0,19.0,20.0
+L0200,radiology_group,False,1,40.706,-74.298,34039032902,34039,Union,3403974480,Union township,False,,False,primary,16.0,21.0,18.0
+L0201,radiology_group,False,2,40.71,-74.214,34013004600,34013,Essex,3401351000,Newark city,False,,False,primary,8.0,15.0,21.0
+L0202,radiology_group,False,2,40.715,-74.388,34039037800,34039,Union,3403971430,Summit city,False,,False,primary,24.0,29.0,16.0
+L0203,radiology_group,False,1,40.717,-74.306,34013020300,34013,Essex,3401346380,Millburn township,False,,False,primary,17.0,22.0,15.0
+L0204,radiology_group,False,1,40.717,-74.081,34017004200,34017,Hudson,3401736000,Jersey City city,False,,False,primary,10.0,21.0,27.0
+L0205,radiology_group,False,2,40.717,-74.05,34017007300,34017,Hudson,3401736000,Jersey City city,False,,False,primary,14.0,22.0,30.0
+L0206,radiology_group,False,1,40.717,-74.04,34017007500,34017,Hudson,3401736000,Jersey City city,False,,False,primary,16.0,22.0,31.0
+L0207,radiology_group,False,2,40.717,-74.034,34017007400,34017,Hudson,3401736000,Jersey City city,False,,False,primary,16.0,23.0,31.0
+L0208,radiology_group,False,2,40.718,-74.357,34039037800,34039,Union,3403971430,Summit city,False,,False,primary,20.0,25.0,15.0
+L0209,radiology_group,False,1,40.719,-74.085,34017004000,34017,Hudson,3401736000,Jersey City city,False,,False,primary,10.0,21.0,27.0
+L0210,radiology_group,False,1,40.72,-74.279,34013019800,34013,Essex,3401343800,Maplewood township,True,,False,secondary,12.0,17.0,18.0
+L0211,radiology_group,False,1,40.72,-74.162,34013007000,34013,Essex,3401351000,Newark city,True,,False,primary,4.0,17.0,21.0
+L0212,radiology_group,False,1,40.722,-74.281,34013019800,34013,Essex,3401343800,Maplewood township,False,,False,primary,12.0,18.0,17.0
+L0213,radiology_group,False,2,40.723,-74.166,34013006900,34013,Essex,3401351000,Newark city,False,,False,primary,4.0,17.0,21.0
+L0214,radiology_group,False,1,40.727,-74.043,34017007200,34017,Hudson,3401736000,Jersey City city,False,,False,primary,15.0,21.0,29.0
+L0215,radiology_group,False,2,40.731,-74.056,34017001202,34017,Hudson,3401736000,Jersey City city,False,,False,primary,13.0,19.0,27.0
+L0216,radiology_group,False,2,40.733,-74.06,34017001900,34017,Hudson,3401736000,Jersey City city,False,,False,primary,13.0,19.0,27.0
+L0217,radiology_group,False,1,40.733,-74.059,34017001900,34017,Hudson,3401736000,Jersey City city,False,,False,primary,13.0,19.0,27.0
+L0218,radiology_group,False,2,40.734,-74.051,34017001400,34017,Hudson,3401736000,Jersey City city,True,,False,primary|secondary,14.0,20.0,28.0
+L0219,radiology_group,False,1,40.735,-74.169,34013008000,34013,Essex,3401351000,Newark city,False,,False,primary,1.0,14.0,18.0
+L0220,radiology_group,False,2,40.738,-74.539,34027044200,34027,Morris,3402729700,Harding township,True,,False,primary,37.0,42.0,25.0
+L0221,radiology_group,False,1,40.738,-74.064,34017000902,34017,Hudson,3401736000,Jersey City city,False,,False,primary,12.0,18.0,27.0
+L0222,radiology_group,False,1,40.74,-74.264,34013019300,34013,Essex,3401369274,South Orange Village township,False,,False,primary,12.0,16.0,16.0
+L0223,radiology_group,False,3,40.741,-74.034,34017019000,34017,Hudson,3401732250,Hoboken city,True,,False,primary|secondary,19.0,25.0,33.0
+L0224,radiology_group,False,1,40.742,-74.061,34017000902,34017,Hudson,3401736000,Jersey City city,False,,False,primary,14.0,19.0,28.0
+L0225,radiology_group,False,1,40.743,-74.191,34013008200,34013,Essex,3401351000,Newark city,True,,False,primary,3.0,11.0,15.0
+L0226,radiology_group,False,3,40.743,-74.174,34013022900,34013,Essex,3401351000,Newark city,True,,False,primary|secondary,3.0,13.0,17.0
+L0227,radiology_group,False,3,40.745,-74.19,34013008200,34013,Essex,3401351000,Newark city,True,,False,primary,3.0,11.0,15.0
+L0228,radiology_group,False,1,40.747,-74.396,34027042700,34027,Morris,3402712100,Chatham borough,False,,False,primary,23.0,28.0,14.0
+L0229,radiology_group,False,1,40.748,-74.398,34027043000,34027,Morris,3402742510,Madison borough,True,,False,secondary,23.0,28.0,15.0
+L0230,radiology_group,False,1,40.753,-74.205,34013010900,34013,Essex,3401319390,East Orange city,False,,False,primary,5.0,9.0,14.0
+L0231,radiology_group,False,1,40.754,-74.213,34013011100,34013,Essex,3401319390,East Orange city,False,,False,primary,6.0,8.0,13.0
+L0232,radiology_group,False,1,40.758,-74.685,34027045903,34027,Morris,3402712610,Chester township,False,,False,primary,52.0,57.0,43.0
+L0233,radiology_group,False,2,40.765,-74.302,34013020600,34013,Essex,3401340890,Livingston township,True,,False,primary,18.0,21.0,6.0
+L0234,radiology_group,False,1,40.769,-74.297,34013017302,34013,Essex,3401379800,West Orange township,False,,False,primary,16.0,19.0,6.0
+L0235,radiology_group,False,1,40.769,-74.235,34013018600,34013,Essex,3401313045,City of Orange township,False,,False,primary,9.0,11.0,11.0
+L0236,radiology_group,False,1,40.77,-74.242,34013018600,34013,Essex,3401313045,City of Orange township,False,,False,primary,10.0,12.0,12.0
+L0237,radiology_group,False,1,40.772,-74.27,34013018000,34013,Essex,3401379800,West Orange township,False,,False,primary|secondary,14.0,16.0,10.0
+L0238,radiology_group,False,1,40.773,-74.354,34013020800,34013,Essex,3401340890,Livingston township,False,,False,primary,22.0,26.0,7.0
+L0239,radiology_group,False,1,40.773,-74.187,34013000600,34013,Essex,3401351000,Newark city,False,,False,primary,9.0,8.0,18.0
+L0240,radiology_group,False,1,40.779,-74.016,34017016100,34017,Hudson,3401774630,Union City city,False,,False,primary,20.0,23.0,33.0
+L0241,radiology_group,False,1,40.782,-74.45,34027043302,34027,Morris,3402748090,Morris township,False,,False,primary,29.0,34.0,17.0
+L0242,radiology_group,False,1,40.784,-74.452,34027043302,34027,Morris,3402748090,Morris township,True,,False,primary,29.0,33.0,16.0
+L0243,radiology_group,False,1,40.786,-74.175,34013014700,34013,Essex,3401304695,Belleville township,False,,False,primary,9.0,6.0,20.0
+L0244,radiology_group,False,1,40.787,-74.274,34013017302,34013,Essex,3401379800,West Orange township,True,,False,primary,15.0,17.0,6.0
+L0245,radiology_group,False,1,40.787,-74.013,34017015700,34017,Hudson,3401779610,West New York town,False,,False,primary,21.0,25.0,35.0
+L0246,radiology_group,False,1,40.789,-74.472,34027043700,34027,Morris,3402748300,Morristown town,False,,False,primary,29.0,34.0,17.0
+L0247,radiology_group,False,2,40.789,-74.26,34013017400,34013,Essex,3401379800,West Orange township,True,,False,primary,13.0,15.0,6.0
+L0248,radiology_group,False,2,40.789,-74.023,34017016000,34017,Hudson,3401779610,West New York town,False,,False,primary,19.0,23.0,33.0
+L0249,radiology_group,False,3,40.79,-74.466,34027043602,34027,Morris,3402748300,Morristown town,True,IDTF,True,primary,30.0,35.0,17.0
+L0250,radiology_group,False,1,40.79,-74.018,34017015500,34017,Hudson,3401779610,West New York town,False,,False,primary,20.0,24.0,34.0
+L0251,radiology_group,False,1,40.791,-74.0,34017015001,34017,Hudson,3401728650,Guttenberg town,False,,False,primary,23.0,26.0,37.0
+L0252,radiology_group,False,1,40.792,-74.014,34017032400,34017,Hudson,3401779610,West New York town,True,,False,primary,21.0,25.0,35.0
+L0253,radiology_group,False,1,40.793,-74.479,34027043700,34027,Morris,3402748300,Morristown town,False,,False,primary,31.0,36.0,19.0
+L0254,radiology_group,False,4,40.793,-74.071,34017019900,34017,Hudson,3401766570,Secaucus town,True,,False,primary|secondary,17.0,17.0,31.0
+L0255,radiology_group,False,1,40.795,-74.069,34017019900,34017,Hudson,3401766570,Secaucus town,True,,False,primary,18.0,18.0,31.0
+L0256,radiology_group,False,1,40.795,-73.997,34017014101,34017,Hudson,3401752470,North Bergen township,True,,False,secondary,23.0,26.0,36.0
+L0257,radiology_group,False,1,40.796,-74.317,34013020400,34013,Essex,3401340890,Livingston township,True,,False,secondary,19.0,21.0,0.0
+L0258,radiology_group,False,1,40.801,-74.433,34027043301,34027,Morris,3402748090,Morris township,False,,False,primary,26.0,31.0,14.0
+L0259,radiology_group,False,1,40.801,-74.196,34013015400,34013,Essex,3401306260,Bloomfield township,False,,False,primary,13.0,4.0,19.0
+L0260,radiology_group,False,1,40.803,-74.248,34013017400,34013,Essex,3401379800,West Orange township,False,,False,primary,12.0,14.0,8.0
+L0261,radiology_group,False,2,40.804,-74.173,34013014000,34013,Essex,3401304695,Belleville township,False,,False,primary,11.0,3.0,21.0
+L0262,radiology_group,False,1,40.804,-74.011,34017014300,34017,Hudson,3401752470,North Bergen township,True,,False,primary,21.0,25.0,34.0
+L0263,radiology_group,False,1,40.806,-73.991,34003013003,34003,Bergen,3400320020,Edgewater borough,False,,False,primary,24.0,27.0,38.0
+L0264,radiology_group,False,1,40.807,-74.163,34013014100,34013,Essex,3401304695,Belleville township,False,,False,primary,13.0,6.0,23.0
+L0265,radiology_group,False,1,40.811,-74.204,34013016000,34013,Essex,3401326610,Glen Ridge borough,False,,False,primary,15.0,5.0,18.0
+L0266,radiology_group,False,1,40.812,-74.457,34027042200,34027,Morris,3402729550,Hanover township,False,,False,primary,29.0,34.0,17.0
+L0267,radiology_group,False,1,40.814,-74.464,34027042200,34027,Morris,3402729550,Hanover township,False,,False,primary,30.0,35.0,18.0
+L0268,radiology_group,False,1,40.814,-74.184,34013015100,34013,Essex,3401306260,Bloomfield township,False,,False,primary,15.0,4.0,21.0
+L0269,radiology_group,False,1,40.814,-74.163,34013013900,34013,Essex,3401353680,Nutley township,True,,False,primary,12.0,5.0,23.0
+L0270,radiology_group,False,1,40.816,-74.216,34013016800,34013,Essex,3401347500,Montclair township,True,,False,primary,17.0,7.0,16.0
+L0271,radiology_group,False,1,40.816,-74.113,34003031100,34003,Bergen,3400342090,Lyndhurst township,False,,False,primary,12.0,12.0,26.0
+L0272,radiology_group,False,1,40.818,-74.441,34027042200,34027,Morris,3402729550,Hanover township,False,,False,primary,28.0,33.0,15.0
+L0273,radiology_group,False,1,40.822,-74.326,34013020902,34013,Essex,3401364590,Roseland borough,False,,False,primary,18.0,21.0,6.0
+L0274,radiology_group,False,2,40.824,-73.988,34003006201,34003,Bergen,3400313570,Cliffside Park borough,True,,False,primary,24.0,28.0,38.0
+L0275,radiology_group,False,1,40.825,-73.983,34003006202,34003,Bergen,3400313570,Cliffside Park borough,True,,False,primary,25.0,29.0,39.0
+L0276,radiology_group,False,1,40.826,-74.154,34013013400,34013,Essex,3401353680,Nutley township,True,,False,primary,13.0,7.0,25.0
+L0277,radiology_group,False,1,40.826,-74.102,34003051300,34003,Bergen,3400365280,Rutherford borough,False,,False,primary,14.0,15.0,28.0
+L0278,radiology_group,False,2,40.842,-74.1,34003005000,34003,Bergen,3400310480,Carlstadt borough,False,,False,primary,16.0,17.0,30.0
+L0279,radiology_group,False,1,40.847,-74.43,34027041802,34027,Morris,3402756460,Parsippany-Troy Hills township,False,,False,primary,29.0,32.0,16.0
+L0280,radiology_group,False,1,40.849,-74.181,34031124312,34031,Passaic,3403113690,Clifton city,False,,False,primary,17.0,8.0,22.0
+L0281,radiology_group,False,1,40.85,-73.968,34003019202,34003,Bergen,3400324420,Fort Lee borough,False,,False,primary,27.0,29.0,40.0
+L0282,radiology_group,False,1,40.851,-74.18,34031124312,34031,Passaic,3403113690,Clifton city,False,,False,primary,16.0,8.0,23.0
+L0283,radiology_group,False,1,40.853,-74.348,34027041704,34027,Morris,3402756460,Parsippany-Troy Hills township,False,,False,secondary,20.0,23.0,8.0
+L0284,radiology_group,False,1,40.853,-73.992,34003041200,34003,Bergen,3400355770,Palisades Park borough,False,,False,primary,25.0,27.0,37.0
+L0285,radiology_group,False,1,40.856,-74.145,34031124404,34031,Passaic,3403113690,Clifton city,False,,False,primary,15.0,12.0,26.0
+L0286,radiology_group,False,4,40.858,-74.137,34031175603,34031,Passaic,3403156550,Passaic city,True,,False,primary|secondary,14.0,12.0,27.0
+L0287,radiology_group,False,1,40.861,-74.612,34027046500,34027,Morris,3402761890,Randolph township,True,,False,primary,44.0,47.0,29.0
+L0288,radiology_group,False,1,40.862,-74.12,34031175900,34031,Passaic,3403156550,Passaic city,False,,False,primary,13.0,13.0,27.0
+L0289,radiology_group,False,2,40.863,-74.164,34031124321,34031,Passaic,3403113690,Clifton city,False,,False,primary,17.0,11.0,25.0
+L0290,radiology_group,False,1,40.864,-74.569,34027045603,34027,Morris,3402761890,Randolph township,False,,False,primary,40.0,42.0,25.0
+L0291,radiology_group,False,2,40.864,-74.429,34027041801,34027,Morris,3402756460,Parsippany-Troy Hills township,False,,False,primary,26.0,29.0,14.0
+L0292,radiology_group,False,1,40.865,-74.558,34027045603,34027,Morris,3402761890,Randolph township,True,,False,primary,39.0,41.0,24.0
+L0293,radiology_group,False,1,40.869,-74.156,34031124321,34031,Passaic,3403113690,Clifton city,False,,False,primary,16.0,12.0,25.0
+L0294,radiology_group,False,2,40.87,-74.183,34031124311,34031,Passaic,3403113690,Clifton city,True,,False,secondary,17.0,11.0,22.0
+L0295,radiology_group,False,1,40.871,-74.695,34027046109,34027,Morris,3402749080,Mount Olive township,True,,False,primary,45.0,48.0,33.0
+L0296,radiology_group,False,1,40.871,-74.136,34031124900,34031,Passaic,3403113690,Clifton city,False,,False,primary,15.0,14.0,26.0
+L0297,radiology_group,False,1,40.871,-73.955,34003016000,34003,Bergen,3400321510,Englewood Cliffs borough,False,,False,primary,30.0,31.0,43.0
+L0298,radiology_group,False,1,40.872,-74.007,34003054602,34003,Bergen,3400372360,Teaneck township,True,,False,secondary,25.0,25.0,37.0
+L0299,radiology_group,False,1,40.874,-74.138,34031124900,34031,Passaic,3403113690,Clifton city,False,,False,primary,15.0,13.0,26.0
+L0300,radiology_group,False,1,40.877,-74.16,34031124602,34031,Passaic,3403113690,Clifton city,False,,False,primary,17.0,11.0,24.0
+L0301,radiology_group,False,1,40.878,-74.103,34003021400,34003,Bergen,3400325770,Garfield city,True,IDTF,False,primary,17.0,17.0,30.0
+L0302,radiology_group,False,1,40.879,-74.056,34003023402,34003,Bergen,3400328680,Hackensack city,False,,True,primary,21.0,21.0,33.0
+L0303,radiology_group,False,1,40.879,-74.053,34003023402,34003,Bergen,3400328680,Hackensack city,True,,False,secondary,22.0,22.0,34.0
+L0304,radiology_group,False,2,40.879,-73.983,34003015402,34003,Bergen,3400321480,Englewood city,True,,False,primary|secondary,28.0,28.0,40.0
+L0305,radiology_group,False,2,40.881,-74.009,34003054500,34003,Bergen,3400372360,Teaneck township,True,,False,primary,26.0,27.0,39.0
+L0306,radiology_group,False,1,40.881,-73.951,34003016000,34003,Bergen,3400321510,Englewood Cliffs borough,False,,False,primary,31.0,32.0,44.0
+L0307,radiology_group,False,1,40.882,-74.009,34003054602,34003,Bergen,3400372360,Teaneck township,False,,False,primary,26.0,26.0,39.0
+L0308,radiology_group,False,3,40.883,-74.045,34003023100,34003,Bergen,3400328680,Hackensack city,False,,False,primary,23.0,23.0,35.0
+L0309,radiology_group,False,1,40.883,-74.043,34003023100,34003,Bergen,3400328680,Hackensack city,True,,False,primary,23.0,23.0,35.0
+L0310,radiology_group,False,1,40.884,-74.058,34003023402,34003,Bergen,3400328680,Hackensack city,True,,False,primary,22.0,21.0,33.0
+L0311,radiology_group,False,1,40.886,-74.575,34027044900,34027,Morris,3402718070,Dover town,True,,False,secondary,39.0,42.0,27.0
+L0312,radiology_group,False,3,40.887,-74.12,34003021200,34003,Bergen,3400325770,Garfield city,True,IDTF,False,primary|secondary,17.0,16.0,28.0
+L0313,radiology_group,False,3,40.888,-73.978,34003015401,34003,Bergen,3400321480,Englewood city,True,,False,primary,29.0,29.0,42.0
+L0314,radiology_group,False,1,40.889,-74.365,34027040803,34027,Morris,3402747670,Montville township,True,,False,secondary,27.0,26.0,15.0
+L0315,radiology_group,False,1,40.891,-74.215,34031264102,34031,Passaic,3403182423,Woodland Park borough,True,,False,primary,20.0,14.0,20.0
+L0316,radiology_group,False,1,40.892,-73.976,34003015401,34003,Bergen,3400321480,Englewood city,False,,False,primary,30.0,31.0,43.0
+L0317,radiology_group,False,2,40.894,-74.463,34027041300,34027,Morris,3402717650,Denville township,True,,False,primary|secondary,31.0,33.0,19.0
+L0318,radiology_group,False,1,40.894,-74.207,34031264102,34031,Passaic,3403182423,Woodland Park borough,False,,False,primary,21.0,14.0,20.0
+L0319,radiology_group,False,1,40.895,-74.213,34031264102,34031,Passaic,3403182423,Woodland Park borough,False,,False,primary,21.0,15.0,21.0
+L0320,radiology_group,False,1,40.896,-74.04,34003023100,34003,Bergen,3400328680,Hackensack city,False,,True,secondary,26.0,25.0,38.0
+L0321,radiology_group,False,1,40.899,-73.971,34003015401,34003,Bergen,3400321480,Englewood city,False,,False,secondary,31.0,32.0,44.0
+L0322,radiology_group,False,3,40.901,-74.216,34031223801,34031,Passaic,3403173140,Totowa borough,True,,False,primary,21.0,15.0,20.0
+L0323,radiology_group,False,1,40.903,-74.167,34031182900,34031,Passaic,3403157000,Paterson city,True,,False,primary,19.0,14.0,25.0
+L0324,radiology_group,False,5,40.904,-74.078,34003050000,34003,Bergen,3400363990,Rochelle Park township,True,,False,primary,22.0,20.0,32.0
+L0325,radiology_group,False,2,40.904,-73.969,34003015200,34003,Bergen,3400321480,Englewood city,True,,False,primary,32.0,33.0,45.0
+L0326,radiology_group,False,1,40.906,-73.952,34003055100,34003,Bergen,3400372420,Tenafly borough,False,,False,primary,36.0,36.0,49.0
+L0327,radiology_group,False,1,40.91,-74.033,34003023100,34003,Bergen,3400328680,Hackensack city,False,,False,primary,27.0,25.0,38.0
+L0328,radiology_group,False,2,40.911,-73.968,34003055100,34003,Bergen,3400372420,Tenafly borough,True,,False,primary,33.0,32.0,45.0
+L0329,radiology_group,False,1,40.913,-74.023,34003054300,34003,Bergen,3400372360,Teaneck township,False,,False,primary,28.0,26.0,39.0
+L0330,radiology_group,False,1,40.916,-74.365,34027040804,34027,Morris,3402747670,Montville township,False,,False,primary,31.0,28.0,19.0
+L0331,radiology_group,False,1,40.917,-74.244,34031246203,34031,Passaic,3403177840,Wayne township,False,,False,primary,24.0,18.0,21.0
+L0332,radiology_group,False,2,40.918,-74.148,34031181300,34031,Passaic,3403157000,Paterson city,False,,False,primary,20.0,17.0,27.0
+L0333,radiology_group,False,2,40.918,-74.145,34031182501,34031,Passaic,3403157000,Paterson city,True,,False,primary,19.0,17.0,27.0
+L0334,radiology_group,False,1,40.918,-74.144,34031182501,34031,Passaic,3403157000,Paterson city,True,,False,primary,19.0,17.0,27.0
+L0335,radiology_group,False,3,40.921,-74.119,34003017501,34003,Bergen,3400322470,Fair Lawn borough,True,,False,primary|secondary,19.0,17.0,30.0
+L0336,radiology_group,False,2,40.922,-74.07,34003042500,34003,Bergen,3400355950,Paramus borough,True,,False,primary|secondary,24.0,22.0,35.0
+L0337,radiology_group,False,1,40.926,-74.311,34027040102,34027,Morris,3402740290,Lincoln Park borough,False,,False,primary,29.0,22.0,23.0
+L0338,radiology_group,False,2,40.928,-73.996,34003003200,34003,Bergen,3400305170,Bergenfield borough,False,,False,primary|secondary,31.0,29.0,42.0
+L0339,radiology_group,False,1,40.929,-74.269,34031246203,34031,Passaic,3403177840,Wayne township,False,,False,primary,26.0,19.0,21.0
+L0340,radiology_group,False,1,40.93,-74.228,34031246101,34031,Passaic,3403177840,Wayne township,False,,False,primary,25.0,19.0,23.0
+L0341,radiology_group,False,1,40.932,-74.075,34003042400,34003,Bergen,3400355950,Paramus borough,True,,False,primary,25.0,23.0,36.0
+L0342,radiology_group,False,1,40.946,-74.206,34031246001,34031,Passaic,3403177840,Wayne township,False,,False,primary,26.0,21.0,28.0
+L0343,radiology_group,False,1,40.946,-74.202,34031246001,34031,Passaic,3403177840,Wayne township,False,,False,primary,27.0,22.0,29.0
+L0344,radiology_group,False,1,40.948,-74.263,34031246202,34031,Passaic,3403177840,Wayne township,False,,False,primary,27.0,21.0,23.0
+L0345,radiology_group,False,1,40.95,-74.209,34031246101,34031,Passaic,3403177840,Wayne township,False,,False,secondary,27.0,21.0,28.0
+L0346,radiology_group,False,1,40.955,-74.073,34003042302,34003,Bergen,3400355950,Paramus borough,False,,False,primary,25.0,22.0,35.0
+L0347,radiology_group,False,1,40.959,-74.031,34003040001,34003,Bergen,3400354990,Oradell borough,True,,False,primary,29.0,26.0,39.0
+L0348,radiology_group,False,1,40.96,-74.03,34003040001,34003,Bergen,3400354990,Oradell borough,False,,False,primary,29.0,27.0,40.0
+L0349,radiology_group,False,2,40.963,-74.242,34031246003,34031,Passaic,3403177840,Wayne township,True,,False,primary,31.0,25.0,28.0
+L0350,radiology_group,False,1,40.963,-74.03,34003040001,34003,Bergen,3400354990,Oradell borough,True,,False,primary,30.0,28.0,41.0
+L0351,radiology_group,False,1,40.969,-74.082,34003042301,34003,Bergen,3400355950,Paramus borough,False,,False,primary,27.0,25.0,38.0
+L0352,radiology_group,False,1,40.97,-74.077,34003042302,34003,Bergen,3400355950,Paramus borough,False,,False,primary,27.0,25.0,38.0
+L0353,radiology_group,False,1,40.972,-74.148,34003047300,34003,Bergen,3400363000,Ridgewood village,False,,False,primary,27.0,23.0,32.0
+L0354,radiology_group,False,1,40.982,-74.119,34003047400,34003,Bergen,3400363000,Ridgewood village,False,,False,primary,30.0,27.0,36.0
+L0355,radiology_group,False,1,40.982,-74.005,34003014000,34003,Bergen,3400321450,Emerson borough,False,,False,primary,37.0,34.0,47.0
+L0356,radiology_group,False,2,40.984,-74.015,34003059100,34003,Bergen,3400380270,Westwood borough,True,,False,primary|secondary,34.0,32.0,45.0
+L0357,radiology_group,False,1,40.985,-74.128,34003047300,34003,Bergen,3400363000,Ridgewood village,False,,False,primary,30.0,26.0,35.0
+L0358,radiology_group,False,1,40.986,-74.304,34027040400,34027,Morris,3402763300,Riverdale borough,True,IDTF,True,primary,30.0,24.0,26.0
+L0359,radiology_group,False,1,40.989,-74.096,34003047100,34003,Bergen,3400363000,Ridgewood village,True,,False,secondary,32.0,30.0,42.0
+L0360,radiology_group,False,1,41.046,-74.072,34003035200,34003,Bergen,3400382300,Woodcliff Lake borough,True,,False,primary,33.0,31.0,44.0
+L0361,radiology_group,False,1,41.058,-74.069,34003035100,34003,Bergen,3400347610,Montvale borough,True,,False,primary,34.0,31.0,44.0
+L0362,radiology_group,False,1,41.06,-74.125,34003044201,34003,Bergen,3400361680,Ramsey borough,False,,False,primary,37.0,34.0,43.0
+L0363,radiology_group,False,1,41.072,-74.093,34003053202,34003,Bergen,3400375140,Upper Saddle River borough,False,,False,primary,38.0,36.0,49.0
+L0364,radiology_group,False,1,41.08,-74.14,34003032201,34003,Bergen,3400342750,Mahwah township,False,,False,primary,39.0,36.0,46.0

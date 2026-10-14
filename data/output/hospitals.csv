@@ -1,0 +1,36 @@
+hospital_id,hospital_type,is_acute_care,emergency_services,lat,lon,geocode_source,tract_geoid,county_fips,county_name,municipality_geoid,municipality,drive_min_A,drive_min_B,drive_min_C
+H001,Acute Care Hospitals,True,Yes,40.884,-74.058,census_geocoder,34003023402,34003,Bergen,3400328680,Hackensack city,22.0,21.0,33.0
+H002,Acute Care Hospitals,True,Yes,40.71,-74.214,census_geocoder,34013004600,34013,Essex,3401351000,Newark city,8.0,15.0,21.0
+H003,Acute Care Hospitals,True,Yes,40.795,-73.997,census_geocoder,34017014101,34017,Hudson,3401752470,North Bergen township,23.0,26.0,36.0
+H004,Acute Care Hospitals,True,Yes,40.858,-74.137,census_geocoder,34031175603,34031,Passaic,3403156550,Passaic city,14.0,12.0,27.0
+H005,Acute Care Hospitals,True,Yes,40.881,-74.009,census_geocoder,34003054500,34003,Bergen,3400372360,Teaneck township,26.0,26.0,38.0
+H006,Acute Care Hospitals,True,Yes,40.786,-74.175,census_geocoder,34013014700,34013,Essex,3401304695,Belleville township,10.0,6.0,20.0
+H007,Acute Care Hospitals,True,Yes,40.965,-74.072,osm_nominatim,34003042302,34003,Bergen,3400355950,Paramus borough,27.0,25.0,38.0
+H008,Acute Care Hospitals,True,Yes,40.79,-74.466,osm_nominatim,34027043602,34027,Morris,3402748300,Morristown town,30.0,35.0,17.0
+H009,Acute Care Hospitals,True,No,40.734,-74.051,census_geocoder,34017001400,34017,Hudson,3401736000,Jersey City city,14.0,20.0,28.0
+H010,Acute Care Hospitals,True,Yes,40.958,-74.31,osm_nominatim,34027040301,34027,Morris,3402758110,Pequannock township,32.0,26.0,27.0
+H011,Acute Care Hospitals,True,No,40.903,-74.167,census_geocoder,34031182900,34031,Passaic,3403157000,Paterson city,19.0,14.0,25.0
+H012,Acute Care - Veterans Administration,False,Yes,40.759,-74.243,census_geocoder,34013018800,34013,Essex,3401313045,City of Orange township,10.0,13.0,14.0
+H013,Acute Care Hospitals,True,Yes,40.612,-74.291,census_geocoder,34039035700,34039,Union,3403961530,Rahway city,23.0,28.0,34.0
+H014,Acute Care Hospitals,True,No,40.668,-74.113,census_geocoder,34017010702,34017,Hudson,3401703580,Bayonne city,17.0,29.0,34.0
+H015,Acute Care Hospitals,True,Yes,40.66,-74.214,census_geocoder,34039030802,34039,Union,3403921000,Elizabeth city,13.0,23.0,29.0
+H016,Acute Care Hospitals,True,No,40.741,-74.034,census_geocoder,34017019000,34017,Hudson,3401732250,Hoboken city,19.0,25.0,33.0
+H017,Acute Care Hospitals,True,Yes,40.904,-73.969,osm_nominatim,34003015200,34003,Bergen,3400321480,Englewood city,32.0,33.0,45.0
+H018,Acute Care Hospitals,True,Yes,40.894,-74.463,census_geocoder,34027041300,34027,Morris,3402717650,Denville township,31.0,33.0,19.0
+H019,Acute Care Hospitals,True,Yes,40.712,-74.354,census_geocoder,34039038000,34039,Union,3403971430,Summit city,20.0,25.0,17.0
+H020,Acute Care Hospitals,True,Yes,40.811,-74.204,osm_nominatim,34013016000,34013,Essex,3401326610,Glen Ridge borough,15.0,5.0,18.0
+H021,Acute Care Hospitals,True,Yes,40.969,-74.082,osm_nominatim,34003042301,34003,Bergen,3400355950,Paramus borough,27.0,25.0,37.0
+H022,Acute Care Hospitals,True,Yes,40.717,-74.05,census_geocoder,34017007300,34017,Hudson,3401736000,Jersey City city,14.0,22.0,30.0
+H023,Acute Care Hospitals,True,Yes,40.765,-74.302,census_geocoder,34013020600,34013,Essex,3401340890,Livingston township,18.0,21.0,7.0
+H024,Acute Care Hospitals,True,Yes,40.754,-74.213,osm_nominatim,34013011100,34013,Essex,3401319390,East Orange city,6.0,9.0,14.0
+H025,Acute Care Hospitals,True,Yes,40.743,-74.174,census_geocoder,34013022900,34013,Essex,3401351000,Newark city,2.0,12.0,16.0
+H026,Acute Care Hospitals,True,Yes,40.793,-74.071,census_geocoder,34017019900,34017,Hudson,3401766570,Secaucus town,17.0,17.0,31.0
+H027,Acute Care Hospitals,True,Yes,40.741,-74.192,census_geocoder,34013008200,34013,Essex,3401351000,Newark city,3.0,11.0,15.0
+H028,Acute Care Hospitals,True,Yes,40.984,-74.015,census_geocoder,34003059100,34003,Bergen,3400380270,Westwood borough,34.0,32.0,45.0
+H029,Long-term,False,No,40.773,-74.187,census_geocoder,34013000600,34013,Essex,3401351000,Newark city,9.0,8.0,18.0
+H030,Psychiatric,False,No,40.714,-74.362,census_geocoder,34039038000,34039,Union,3403971430,Summit city,21.0,26.0,17.0
+H031,Psychiatric,False,No,40.834,-74.511,census_geocoder,34027041605,34027,Morris,3402756460,Parsippany-Troy Hills township,36.0,40.0,22.0
+H032,Psychiatric,False,No,40.985,-74.172,census_geocoder,34003061300,34003,Bergen,3400383050,Wyckoff township,29.0,24.0,33.0
+H033,Psychiatric,False,No,40.852,-74.234,osm_nominatim,34013021300,34013,Essex,3401311200,Cedar Grove township,21.0,14.0,15.0
+H034,Psychiatric,False,No,40.783,-74.058,census_geocoder,34017020000,34017,Hudson,3401766570,Secaucus town,17.0,18.0,30.0
+H035,Psychiatric,False,No,40.668,-74.423,census_geocoder,34039038201,34039,Union,3403905320,Berkeley Heights township,24.0,29.0,25.0
